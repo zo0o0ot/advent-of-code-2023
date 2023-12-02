@@ -22,9 +22,10 @@
       "vscode": {
         // Add the IDs of extensions you want installed when the container is created.
         "extensions": [
-            "bierner.markdown-mermaid", 
-            "ms-dotnettools.dotnet-interactive-vscode"
-        ],
+			"bierner.markdown-mermaid",
+			"ms-dotnettools.dotnet-interactive-vscode",
+			"ms-dotnettools.csdevkit"
+		],
         "settings": {
     
         }
