@@ -24,7 +24,9 @@
         "extensions": [
 			"bierner.markdown-mermaid",
 			"ms-dotnettools.dotnet-interactive-vscode",
-			"ms-dotnettools.csdevkit"
+			"ms-dotnettools.csdevkit",
+			"ms-dotnettools.vscodeintellicode-csharp",
+			"ms-dotnettools.csharp"
 		],
         "settings": {
     
